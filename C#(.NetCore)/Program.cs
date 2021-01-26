@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Patterns.Abstract_Factory;
+using System;
 
 namespace Patterns
 {
@@ -6,7 +7,9 @@ namespace Patterns
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            AbstractFactory.Start();
+
+
         }
     }
 }

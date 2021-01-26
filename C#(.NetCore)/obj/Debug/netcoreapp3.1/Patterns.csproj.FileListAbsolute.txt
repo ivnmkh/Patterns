@@ -1,0 +1,13 @@
+C:\Git\Patterns\C#(.NetCore)\bin\Debug\netcoreapp3.1\Patterns.exe
+C:\Git\Patterns\C#(.NetCore)\bin\Debug\netcoreapp3.1\Patterns.deps.json
+C:\Git\Patterns\C#(.NetCore)\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.json
+C:\Git\Patterns\C#(.NetCore)\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.dev.json
+C:\Git\Patterns\C#(.NetCore)\bin\Debug\netcoreapp3.1\Patterns.dll
+C:\Git\Patterns\C#(.NetCore)\bin\Debug\netcoreapp3.1\Patterns.pdb
+C:\Git\Patterns\C#(.NetCore)\obj\Debug\netcoreapp3.1\Patterns.csprojAssemblyReference.cache
+C:\Git\Patterns\C#(.NetCore)\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfoInputs.cache
+C:\Git\Patterns\C#(.NetCore)\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfo.cs
+C:\Git\Patterns\C#(.NetCore)\obj\Debug\netcoreapp3.1\Patterns.csproj.CoreCompileInputs.cache
+C:\Git\Patterns\C#(.NetCore)\obj\Debug\netcoreapp3.1\Patterns.dll
+C:\Git\Patterns\C#(.NetCore)\obj\Debug\netcoreapp3.1\Patterns.pdb
+C:\Git\Patterns\C#(.NetCore)\obj\Debug\netcoreapp3.1\Patterns.genruntimeconfig.cache
