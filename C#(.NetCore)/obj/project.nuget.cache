@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pSoNVHOsNnw6t4pb+X/gowWo4RJHcjN6sCLlalHWlN675eBeOB1Tq+SXvpqh5RDwNUrRHJbKIu/Fb8dG/dh8vg==",
+  "dgSpecHash": "fx8H+GHA3bT86spWzEWxx9LJAaB3sVBZbENsKr0e+NizSb2JzRqIUbgrqezPM5sdkv8jAAe2RLZ+LxZ7vwRq2A==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns\\Patterns.csproj",
+  "projectFilePath": "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

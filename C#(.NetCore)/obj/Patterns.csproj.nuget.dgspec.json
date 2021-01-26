@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns\\Patterns.csproj": {}
+    "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns\\Patterns.csproj": {
+    "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns\\Patterns.csproj",
+        "projectUniqueName": "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns.csproj",
         "projectName": "Patterns",
-        "projectPath": "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns\\Patterns.csproj",
+        "projectPath": "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Patterns\\C#(.NetCore)\\Patterns\\obj\\",
+        "outputPath": "C:\\Git\\Patterns\\C#(.NetCore)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
